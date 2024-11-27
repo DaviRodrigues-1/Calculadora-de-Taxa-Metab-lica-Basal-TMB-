@@ -29,7 +29,7 @@ Este é um simples script em Python que calcula a Taxa Metabólica Basal (TMB) d
 ## Exemplo de Execução
 
 ```text
-\t[Calculadora de TMB]
+[Calculadora de TMB]
 
 Digite o seu sexo (M para masculino, F para feminino): M
 Digite o seu peso em kg: 70
