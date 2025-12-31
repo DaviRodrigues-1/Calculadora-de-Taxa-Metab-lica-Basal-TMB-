@@ -1,7 +1,7 @@
 # Calculadora-de-Taxa-Metab-lica-Basal-TMB-
 ---
 
-Este é um simples script em Python que calcula a Taxa Metabólica Basal (TMB) de uma pessoa, ou seja, a quantidade de calorias que o corpo queima em repouso para manter suas funções vitais. A TMB é um parâmetro importante para quem deseja controlar a alimentação e o gasto energético, como no caso de dietas ou planos de exercícios.
+Este é um simples projeto pessoal de um script em Python que calcula a Taxa Metabólica Basal (TMB) de uma pessoa, ou seja, a quantidade de calorias que o corpo queima em repouso para manter suas funções vitais. A TMB é um parâmetro importante para quem deseja controlar a alimentação e o gasto energético, como no caso de dietas ou planos de exercícios.
 
 ## Como Funciona
 
