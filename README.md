@@ -2,7 +2,7 @@
 
 # Basal Metabolic Rate (BMR) Calculator
 
-This is a simple Python script that calculates a person's Basal Metabolic Rate (BMR), which is the number of calories the body burns at rest to maintain vital functions such as breathing and circulation. BMR is an important parameter for people who want to control their diet and energy expenditure, especially in the context of weight management or fitness goals.
+This is a simple personal project Python script that calculates a person's Basal Metabolic Rate (BMR), which is the number of calories the body burns at rest to maintain vital functions such as breathing and circulation. BMR is an important parameter for people who want to control their diet and energy expenditure, especially in the context of weight management or fitness goals.
 
 ## How It Works
 
